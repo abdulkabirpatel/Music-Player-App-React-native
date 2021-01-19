@@ -2,7 +2,7 @@
 
 A mobile application built using React Native
 
-![screenshots of example app](https://raw.githubusercontent.com/TPMinan/react-native-music-app/master/images/screenshot.png)
+![screenshots of example app](https://github.com/abdulkabirpatel/Music-Player-App-React-native/blob/master/images/screenshot.png)
 
 ## Features
 
@@ -12,12 +12,11 @@ A mobile application built using React Native
 - Next, previous, shuffle, and replay
 
 ## Setup instructions
-The download with youtube was removed. Instead, you have to put sounds and pictures in correct positions in the data. and you can edit the sample data on the file `data/index.js`.
 
 #### Download
 ```console
-git clone https://github.com/TPMinan/react-native-music-app
-cd react-native-music-app
+git clone https://github.com/abdulkabirpatel/Music-Player-App-React-native
+cd Music-Player-App-React-native
 ```
 
 #### Install dependencies
@@ -46,7 +45,7 @@ yarn android
 ```
 
 ### Reporting Issues
-If believe you've found an issue, please [report it](https://github.com/TPMinan/react-native-music-app/issues) along with any relevant details to reproduce it.
+If believe you've found an issue, please [report it](https://github.com/abdulkabirpatel/Music-Player-App-React-native/issues) along with any relevant details to reproduce it.
 
 ### Asking for help 
 Please do not use the issue tracker for personal support requests. Instead, use StackOverflow.
