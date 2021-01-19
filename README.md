@@ -2,7 +2,7 @@
 
 A mobile application built using React Native
 
-![screenshots of example app](https://github.com/abdulkabirpatel/Music-Player-App-React-native/blob/master/images/screenshot.png)
+![screenshots of example app](https://github.com/abdulkabirpatel/Music-Player-App-React-native/blob/master/images/screenshot1.png)
 
 ## Features
 
